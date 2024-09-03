@@ -1,0 +1,32 @@
+body{
+    Family: Roboto;
+Weight: Regular;
+Size: 16px;
+Line Height: 24px;
+Letter Spacing: 2%;
+}
+
+h1
+{Family: Roboto;
+Weight: Bold;
+Size: 56px;
+Letter Spacing: 2%;
+Line Height: 60px;}
+
+h2
+{Family: Roboto;
+Weight: Bold;
+Size: 36px;
+Letter Spacing: 2%;}
+
+h3
+{Family: Roboto;
+Weight: Medium;
+Size: 20px;
+Letter Spacing: 2%;}
+
+p{Family: Roboto;
+Weight: Regular;
+Size: 12px;
+Line Height: 14px;
+Letter Spacing: 4%;}
