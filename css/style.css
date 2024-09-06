@@ -42,15 +42,15 @@ body {
   line-height: 60px;
   letter-spacing: 0.02em;
   text-align: center;
+
   color: white;
 }
 
 .header-2 {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.11;
+  line-height: 1.07;
   letter-spacing: 0.02em;
-  color: #2e2f42;
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
@@ -94,6 +94,7 @@ button {
   cursor: pointer;
 }
 .butt-order {
+  line-height: 1.5;
   color: white;
   background-color: #4d5ae5;
   opacity: 0px;
@@ -132,6 +133,7 @@ p {
 
 .contacts {
   font-style: normal;
+  font-weight: 500;
 }
 
 .our-team-section {
