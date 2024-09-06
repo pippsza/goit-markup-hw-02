@@ -31,7 +31,8 @@ body {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 h1 {
@@ -67,9 +68,6 @@ a {
 .navigation {
   color: #2e2f42;
 }
-.white-sections {
-  background-color: white;
-}
 .navigation:hover {
   color: #404bbf;
 }
@@ -86,25 +84,17 @@ button {
 .butt-order {
   color: white;
   background-color: #4d5ae5;
-  gap: 10px;
-
   opacity: 0px;
 }
 .butt-order:hover {
   color: white;
   background-color: #404bbf;
-
-  gap: 10px;
-
   opacity: 0px;
 }
 
 .butt-order:focus {
   color: white;
   background-color: #404bbf;
-
-  gap: 10px;
-
   opacity: 0px;
 }
 p {
