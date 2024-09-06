@@ -45,6 +45,9 @@ body {
 
   color: white;
 }
+.header-list {
+  font-weight: 500;
+}
 
 .header-2 {
   font-size: 36px;
