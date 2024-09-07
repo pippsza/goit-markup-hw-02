@@ -47,7 +47,7 @@ body {
   font-weight: 500;
 }
 .footer-class {
-  color: #2e2f42;
+  background-color: #2e2f42;
 }
 .list-third {
   background-color: #ffffff;
@@ -159,7 +159,7 @@ p {
 .logo-studio {
   color: #2e2f42;
 }
-.logo-studio2 {
+.logo-studio-second {
   color: #f4f4fd;
 }
 
