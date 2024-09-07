@@ -98,7 +98,7 @@ a {
 }
 .navigation {
   color: #2e2f42;
-  font-weight: 500px;
+  font-weight: 500;
 }
 .navigation:hover {
   color: #404bbf;
@@ -123,7 +123,7 @@ button {
   line-height: 1.5;
   color: white;
   background-color: #4d5ae5;
-  opacity: 0px;
+  opacity: 0;
   font-weight: 500;
   letter-spacing: 0.04em;
 }
@@ -133,13 +133,13 @@ button {
 .butt-order:hover {
   color: white;
   background-color: #404bbf;
-  opacity: 0px;
+  opacity: 0;
 }
 
 .butt-order:focus {
   color: white;
   background-color: #404bbf;
-  opacity: 0px;
+  opacity: 0;
 }
 p {
   font-size: 16px;
