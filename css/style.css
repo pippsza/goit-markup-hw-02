@@ -56,13 +56,13 @@ body {
   font-size: 16px;
 }
 .header-2_2 {
+  color: #2e2f42;
   line-height: 1.11;
   font-size: 36px;
   font-weight: 700;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  color: #2e2f42;
 }
 .header-2 {
   font-size: 36px;
