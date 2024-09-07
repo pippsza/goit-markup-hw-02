@@ -46,14 +46,19 @@ body {
 .header-list {
   font-weight: 500;
 }
+.list-3 {
+  background-color: white;
+}
 .artcle {
-  color: white;
 }
 .header-3 {
   color: #2e2f42;
 }
 .prg {
   font-size: 16px;
+}
+.prg2 {
+  color: #434455;
 }
 .header-2_2 {
   color: #2e2f42;
