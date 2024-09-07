@@ -49,9 +49,7 @@ body {
 .footer-class {
   background-color: #2e2f42;
 }
-.list-third {
-  background-color: #ffffff;
-}
+
 .artcle {
 }
 .heder-third {
@@ -170,4 +168,7 @@ p {
 
 .our-team-section {
   background-color: #f4f4fd;
+}
+.list-third {
+  background-color: #ffffff;
 }
