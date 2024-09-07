@@ -35,7 +35,7 @@ body {
   background-color: #ffffff;
 }
 
-.heder-1 {
+.heder-first {
   line-height: 1.07;
   font-size: 56px;
   font-weight: 700;
@@ -49,21 +49,21 @@ body {
 .footer-class {
   color: #2e2f42;
 }
-.list-3 {
+.list-third {
   background-color: #ffffff;
 }
 .artcle {
 }
-.heder-3 {
+.heder-third {
   color: #2e2f42;
 }
 .prg {
   font-size: 16px;
 }
-.prg2 {
+.prg-second {
   color: #434455;
 }
-.heder-2_2 {
+.heder-secondd {
   color: #2e2f42;
   line-height: 1.11;
   font-size: 36px;
@@ -72,7 +72,7 @@ body {
   text-align: center;
   text-transform: capitalize;
 }
-.header-2 {
+.header-second {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.07;
