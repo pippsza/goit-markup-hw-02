@@ -39,16 +39,31 @@ body {
   line-height: 1.07;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
   letter-spacing: 0.02em;
   text-align: center;
-
   color: white;
 }
 .header-list {
   font-weight: 500;
 }
-
+.artcle {
+  color: white;
+}
+.header-3 {
+  color: #2e2f42;
+}
+.parag {
+  font-size: 16px;
+}
+.header-2_2 {
+  line-height: 1.11;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 .header-2 {
   font-size: 36px;
   font-weight: 700;
