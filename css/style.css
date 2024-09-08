@@ -51,6 +51,7 @@ body {
 }
 
 .artcle {
+  background-color: white;
 }
 .heder-third {
   color: #2e2f42;
@@ -168,7 +169,4 @@ p {
 
 .our-team-section {
   background-color: #f4f4fd;
-}
-.list-third {
-  background-color: #ffffff;
 }
